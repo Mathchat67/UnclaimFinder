@@ -1,0 +1,7 @@
+---
+task_tick: 20 # default 20 = 1 seconds (refresh check tiles)
+
+unclaimFinder:
+  idMeta: "414:0"
+  popup: "§6Il y a§1 {tiles} §6%"
+...
